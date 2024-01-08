@@ -104,4 +104,34 @@ h5{
     text-align: center;
     border-radius: 15px;
     margin-top: 50px;
+    padding: 100px;
 }
+span{
+    color:red;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+} 
+.address>p{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+
+}
+.address>button{
+    color:white;
+    background-color: red;
+    padding: 7px 10px 7px 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+
