@@ -311,3 +311,53 @@ text-transform: capitalize;
 .conteiner{
     padding-top: 50px;
 }
+footer{
+    background-color: #070211;
+    color: #FFF;
+    width:1400px;
+    height: 600px;
+    margin-left: 0%;
+    margin-top: 50px;
+    padding: 70px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.footer-adress{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.footer-contact{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px
+}
+.footer-contact span{
+    
+}
+#website{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+text-transform: lowercase;
+margin-bottom: 5px;
+}
+.footer-icon{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
