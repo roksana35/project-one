@@ -5,6 +5,7 @@
 }
 body{
     background-color: white;
+    margin: 30px 40px 30px 40px ;
 }
 h1{
     color: #ffffff;
@@ -22,7 +23,7 @@ h1{
     height: 600px;
     flex-shrink: 0;
     border-radius: 15px;
-    margin: 10px;
+   
 }
 h5{
     padding-top: 177px;
@@ -62,7 +63,7 @@ h5{
     margin-bottom: 20px;
 }
 .hero-img{
-    
+
 }
 .banner2{
     width: 1320px;
@@ -74,7 +75,7 @@ h5{
     justify-content: center;
     padding-top: 100px;
     gap: 200px;
-    margin: 10px;
+    
     border-radius: 15px;
 }
 .text-banner2>h2{
@@ -97,9 +98,9 @@ h5{
 }
 .address{
     width: 1320px;
-    height: 500px;
+    height: 482px;
     background-color: rgb(235,224,205);
-    margin: 10px;
+    
     text-align: center;
     border-radius: 15px;
     margin-top: 50px;
