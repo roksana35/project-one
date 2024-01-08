@@ -135,3 +135,82 @@ text-transform: capitalize;
 
 }
 
+.offer-section{
+    width: 1320px;
+    height: 482px;
+    display: grid;
+    grid-template-columns: 400px 440px 400px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 40px;
+    text-align: center;
+    
+    
+}
+.text-offer h4{
+    color: #F00;
+    font-family: 'Inter',sans-serif;
+    text-transform: capitalize;
+    
+}
+.offer-icon h4{
+    color: #F00;
+    font-family: 'Inter',sans-serif;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.text-offer h2{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text-offer{
+    margin-top: 80px;
+}
+.offer-icon{
+    margin-top: 80px;
+}
+.offer-img{
+    width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+padding: 49.8px;
+margin-right: 70px;
+margin-top: 30px;
+
+}
+.offer-icon img{
+    margin-top: 30px;
+}
+.holiday{
+    width: 1320px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+.sale h6{
+    font-size: 20px;
+    font-family: 'Inter',sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+}
+.sale h2 ,span{
+    font-size: 40px;
+    margin-top: 12px;
+    text-align: center;
+}
+.sale p{
+    text-align: center;
+}
+.sale{
+    margin-top: 50px;
+}
+.holiday-img{
+    background-image: url('images/Rectangle\ 2.png');
+    height: 100px;
+    
+}
+
