@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 90px;
+    
+}
+.banner{
+    background-image: linear-gradient(180deg,#070211 0%,rgb(7,2,167,0.00)100%),url('images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    margin: 10px;
+}
+h5{
+    padding-top: 177px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+}
+.hero{
+    width: 1320px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 80px;
+}
+.hero-text>h2{
+    color: red;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.hero{
+    font-family: 'Inter',sans-serif;
+    line-height: normal;
+    word-spacing: 3px;
+}
+.hero-text>p{
+    color:red;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.hero-text>h4{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.hero-img{
+    
+}
+.banner2{
+    width: 1320px;
+    height: 600px;
+    background-image: linear-gradient(180deg,#070211 0%,rgba(7,2,17,0.00)100%),url('images/Vectorrr.png');
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 200px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.text-banner2>h2{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04;
+    margin-bottom: 20px;
+}
+.text-banner2>p{
+    color: #FFF;
+    font-size: 16px;
+}
+.text-banner2>button{
+    margin-top: 50px;
+    padding: 5px;
+    color: #FFF;
+    background-color: rgb(19, 24, 24);
+}
+.address{
+    width: 1320px;
+    height: 500px;
+    background-color: rgb(235,224,205);
+    margin: 10px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 50px;
+}
