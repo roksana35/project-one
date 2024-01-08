@@ -178,6 +178,7 @@ flex-shrink: 0;
 padding: 49.8px;
 margin-right: 70px;
 margin-top: 30px;
+border: 15px solid red;
 
 }
 .offer-icon img{
@@ -185,7 +186,7 @@ margin-top: 30px;
 }
 .holiday{
     width: 1320px;
-    height: 800px;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -208,9 +209,105 @@ margin-top: 30px;
 .sale{
     margin-top: 50px;
 }
-.holiday-img{
-    background-image: url('images/Rectangle\ 2.png');
-    height: 100px;
-    
-}
 
+
+.portfolio{
+    width: 1320px;
+    height: 1100px;
+}
+.portfolio-text h6{
+    color: #F00;
+font-family: 'Inter',sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.portfolio-text h2{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: 15px;
+}
+.portfolio-text p{
+    margin-bottom: 20px;
+}
+.portfolio-img{
+    width: 424px;
+    height: 430px;
+
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.photo2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    gap: 20px;
+}
+.last-section{
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.wrapper{
+    width: 400px;
+    max-width: 100%;
+    position: relative;
+}
+.wrapper input{
+    background: #FFF;
+    border-radius: 50px;
+    padding: 10px;
+    width: 100%;
+}
+.wrapper button{
+    background-color: red;
+    color: #FFF;
+    border-radius: 5%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 0px 50px 50px 0px;
+    position: absolute;
+    border: 1px solid #FFF;
+    right: 0;
+}
+.last-section{
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+    text-align: center;
+}
+.icon-1st{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 550px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.last-text h3{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.wrapper{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.conteiner{
+    padding-top: 50px;
+}
