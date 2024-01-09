@@ -361,3 +361,15 @@ margin-bottom: 5px;
     padding-bottom: 40px;
 
 }
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    color: #FFF;
+    font-family: 'Inter',sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px
+}
