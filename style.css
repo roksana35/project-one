@@ -208,8 +208,35 @@ border: 15px solid red;
 }
 .sale{
     margin-top: 50px;
+    
 }
-
+.holiday-img{
+    width: 1320px;
+    height: 1000px;
+    position: relative;
+}
+ .holiday-img div{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    padding-top: 40px;
+}
+.img4{
+    height: 200px;
+    bottom: 0%;
+}
+.img3{
+    right: 27px;
+}
+.img2{
+    left: 730px;
+    top: 50px;
+    z-index: 2;
+}
+.img1{
+    z-index: 1;
+    bottom: ;
+}
 
 .portfolio{
     width: 1320px;
